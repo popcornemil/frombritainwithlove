@@ -1,4 +1,4 @@
 # frombritainwithlove
-my test respository
+Discord bot
 
 Read this readme full with important information
