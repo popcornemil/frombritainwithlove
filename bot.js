@@ -73,6 +73,7 @@ bot.on('message', function (user, userID, channelID, message, evt) {
                     "Varför har inte jag fått smaka Malibun? - Besten",
                     "Det löser sig snart. - Kemisten",
                     "Det går lite hand i hand. - Dibs"
+                    "Nästan.. - Okänd"
                 ]
                     
                 var quote = quotes[Math.floor(Math.random() * quotes.length)];
